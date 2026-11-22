@@ -1,2 +1,5 @@
-# python-calculator-project
-Учебный калькулятор на Python и Tkinter
+# Калькулятор на Python
+
+Калькулятор с графическим интерфейсом на Tkinter.
+
+Запуск: `python calculator.py`
